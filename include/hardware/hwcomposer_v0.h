@@ -1,13 +1,4 @@
-iRom
- Create
- API
- About
-Re: Untitled
-From Crippled Parrot, 1 Minute ago, written in Plain Text.
-This paste is a reply to Untitled from Rude Pintail - view diff
-URL https://paste.omnirom.org/view/f91e0fa6
-Embed Show code
-Download Paste or View Raw
+
 
 /*
  * Copyright (C) 2010 The Android Open Source Project
